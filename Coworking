@@ -1,1 +1,35 @@
+<html>
+    <head>
+    <style>
+      
+      RightMenuStl{
+        background-color: #d5d2c2;
+        color: white;
+        display: block; /* Make the links appear below each other */
+        padding: 12px; /* Add some padding */
+      }
+      
+      body{
+        background-color: #fff7e2;
+        background-image: url("https://media.discordapp.net/attachments/992877997940015164/992889117731979314/NewHomepageFst.png?width=775&height=702");
+        background-repeat: no-repeat;
+      }
+      
 
+    </style>
+        <title>Test Page</title>
+    </head>
+    <body>
+    
+    <div>
+      Welcome!
+    </div>
+    <>
+    <div class="RightMenuStl">
+    
+      <p>Right Menu</p>
+      
+    </div>
+    
+    </body>
+</html>
